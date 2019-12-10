@@ -1,0 +1,7 @@
+header > ul.icons > li {
+  padding: 0 !important;
+}
+
+header > ul.icons > li .icon:before {
+  font-size: 1em;
+}
